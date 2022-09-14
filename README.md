@@ -39,3 +39,5 @@ For both client and server, run the following commands :
 ## Screenshots
 
 ![WhatsApp Image 2022-09-14 at 7 34 46 PM](https://user-images.githubusercontent.com/86286139/190178607-8d1f85ba-c834-4bfa-87b7-591008eac8d0.jpeg)
+![Screenshot 2022-09-14 194535](https://user-images.githubusercontent.com/86286139/190179213-f6a9dda5-fa5f-40eb-a22f-d91924dfbe9b.png)
+
