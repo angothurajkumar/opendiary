@@ -21,6 +21,13 @@ Backend
 
 Database
 * MongoDB
+
+## Installation
+
+For both client and server, run the following commands :
+* npm install
+* npm start
+
 ## Features
 
 * User Authentication
@@ -30,8 +37,4 @@ Database
 * Post feed
 * User Profiles
 ## Screenshots
-## Installation
 
-For both client and server, run the following commands :
-* npm install
-* npm start
